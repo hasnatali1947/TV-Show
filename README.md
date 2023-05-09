@@ -46,7 +46,7 @@ This is a TV show list web app that fetches real time data from the server to sh
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://hasnatali1947.github.io/TV-Show/src/index.html
+https://hasnatali1947.github.io/TV-Show/)
 - [Live Demo Link](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
